@@ -5,8 +5,8 @@
 ### Learn About My Projects
 
 ---
-#### [Massachusetts Education Overview]([Massachusetts Education Overview](https://public.tableau.com/app/profile/dava.betts/viz/MassachusettsEducationOverview_16921526478260/MassachusettsEducationOverview))
-<Screenshot 2023-08-24 at 1.57.37 PM.png>
+#### ([Massachusetts Education Overview](https://public.tableau.com/app/profile/dava.betts/viz/MassachusettsEducationOverview_16921526478260/MassachusettsEducationOverview))
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>]
  
 
 ---
