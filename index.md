@@ -5,8 +5,8 @@
 ### Learn About My Projects
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+#### [https://public.tableau.com/app/profile/dava.betts/viz/MassachusettsEducationOverview_16921526478260/MassachusettsEducationOverview](Massachusetts Education Overview)
+<Screenshot 2023-08-24 at 1.57.37 PM.png>
  
 
 ---
