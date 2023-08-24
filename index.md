@@ -8,6 +8,12 @@
 #### [Massachusetts Education Overview](https://public.tableau.com/app/profile/dava.betts/viz/MassachusettsEducationOverview_16921526478260/MassachusettsEducationOverview)
 <img src="images/Screenshot 2023-08-24 at 1.57.37 PM.png"/>
 
+The main focuses were:
+What schools are struggling the most?
+How does class size affect college admission?
+What are the top math schools in the state? 
+#### [Massachusetts Education Overview Article](https://www.linkedin.com/pulse/massachusetts-school-project-dava-betts/?trackingId=rdGItH05SRC%2BeCdSE5Nc2w%3D%3D)
+
 
  
 
