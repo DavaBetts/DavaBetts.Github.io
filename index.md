@@ -18,7 +18,7 @@ What are the top math schools in the state?
  
 
 ---
-#### [DoorDash Analysis](https://www.linkedin.com/pulse/doordash-analytics-dava-betts/?trackingId=ddRZgjmQRfmBDQOCuJKJFQ%3D%3D)
+#### [DoorDash Analysis | Excel](https://www.linkedin.com/pulse/doordash-analytics-dava-betts/?trackingId=ddRZgjmQRfmBDQOCuJKJFQ%3D%3D)
 <img src="images/DDimage.png">
  
 
@@ -33,13 +33,13 @@ What are the top math schools in the state?
 
 ---
 
-### Category Name 2
+### SQL Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [WSDA Music | SQL](https://github.com/DavaBetts/SQL/blob/main/WSDA_Music.db)
+- [Customer & Order Analytics | SQL](https://github.com/DavaBetts/SQL/blob/main/Customer%20and%20Order%20Analytics)
+- [Create Grocery List Table | SQL](https://github.com/DavaBetts/SQL/blob/main/Grocery%20Store%20Database%20and%20Stats)
+- [Airline Reviews](https://github.com/DavaBetts/SQL/blob/main/Airline_Reviews)
+
 
 ---
 
