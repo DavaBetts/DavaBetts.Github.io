@@ -26,10 +26,8 @@ What are the top math schools in the state?
 ---
 #### [World Bank Project | SQL]([https://www.linkedin.com/pulse/show-me-money-dava-betts/?published=t)]
 <img src="images/World Bank (Presentation (169)).jpg">
-In this project from Data Analytics Accelerator, I was prompted to analyze the financial state of various countries and the amounts owed to the IDA. The main focuses were:
-The AVG service charge rate.
-The status of the country of Nicaragua.
-What are the highest amounts owed to the IDA.
+In this project from Data Analytics Accelerator, I was prompted to analyze the financial state of various countries and the amounts owed to the IDA. You can find the full article here.
+https://www.linkedin.com/pulse/show-me-money-dava-betts/?published=t
 
 ---
 
