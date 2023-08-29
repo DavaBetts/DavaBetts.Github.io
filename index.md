@@ -33,9 +33,9 @@ https://www.linkedin.com/pulse/show-me-money-dava-betts/?published=t
 
 ### SQL Projects
 
-- [WSDA Music | SQL](https://github.com/DavaBetts/SQL/blob/main/WSDA_Music.db)
-- [Customer & Order Analytics | SQL](https://github.com/DavaBetts/SQL/blob/main/Customer%20and%20Order%20Analytics)
-- [Create Grocery List Table | SQL](https://github.com/DavaBetts/SQL/blob/main/Grocery%20Store%20Database%20and%20Stats)
+- [WSDA Music](https://github.com/DavaBetts/SQL/blob/main/WSDA_Music.db)
+- [Customer & Order Analytics](https://github.com/DavaBetts/SQL/blob/main/Customer%20and%20Order%20Analytics)
+- [Create Grocery List Table](https://github.com/DavaBetts/SQL/blob/main/Grocery%20Store%20Database%20and%20Stats)
 - [Airline Reviews](https://github.com/DavaBetts/SQL/blob/main/Airline_Reviews)
 
 
