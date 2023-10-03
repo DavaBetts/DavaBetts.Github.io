@@ -7,7 +7,7 @@
 ---
 #### [Health Analysis](https://www.linkedin.com/pulse/what-health-going-dava-betts/)
 <img src="images/national-cancer-institute-701-FJcjLAQ-unsplash (1).jpg"/>
-
+This project focuses on some major KPIs a Hospital deals with and solutions for improvement. 
 
 #### [Massachusetts Education Overview](https://public.tableau.com/app/profile/dava.betts/viz/MassachusettsEducationOverview_16921526478260/MassachusettsEducationOverview)
 <img src="images/Screenshot 2023-08-24 at 1.57.37 PM.png"/>
