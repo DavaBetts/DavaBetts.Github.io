@@ -5,7 +5,8 @@
 ### Learn About My Projects
 
 ---
-####[Health Analysis](https://www.linkedin.com/pulse/what-health-going-dava-betts/)
+#### [Health Analysis](https://www.linkedin.com/pulse/what-health-going-dava-betts/)
+<img src="images/national-cancer-institute-701-FJcjLAQ-unsplash (1).jpg"/>
 
 
 #### [Massachusetts Education Overview](https://public.tableau.com/app/profile/dava.betts/viz/MassachusettsEducationOverview_16921526478260/MassachusettsEducationOverview)
